@@ -113,23 +113,23 @@ o	Ứng dụng di động:
 	Màn hình cài đặt: Cấu hình hệ thống, quản lý người dùng, tạo kịch bản tự động hóa.
 	Màn hình thống kê: Hiển thị thống kê mức tiêu thụ năng lượng, lịch sử hoạt động.
 7. PHÂN CÔNG CÔNG VIỆC
-•	Trưởng nhóm (Quản lý dự án): [Tên thành viên] 
+•	Trưởng nhóm (Quản lý dự án): [Hà Ngọc Hiển] 
 o	Chịu trách nhiệm quản lý tổng thể dự án, đảm bảo tiến độ và chất lượng công việc.
 o	Điều phối các thành viên trong nhóm, giải quyết xung đột và đưa ra quyết định cuối cùng.
 o	Liên lạc với khách hàng (nếu có) để thu thập yêu cầu và phản hồi.
-•	Chuyên gia phân tích yêu cầu: [Tên thành viên] 
+•	Chuyên gia phân tích yêu cầu: [Vũ Mạnh Tuấn] 
 o	Thu thập và phân tích yêu cầu từ người dùng (ví dụ: các thành viên trong gia đình).
 o	Xác định các tính năng cần thiết của hệ thống.
 o	Viết tài liệu đặc tả yêu cầu chi tiết.
-•	Chuyên gia thiết kế hệ thống: [Tên thành viên] 
+•	Chuyên gia thiết kế hệ thống: [Nguyễn Hoàng Khánh Minh] 
 o	Thiết kế kiến trúc tổng thể của hệ thống, bao gồm phần cứng và phần mềm.
 o	Lựa chọn các thiết bị và công nghệ phù hợp.
 o	Xây dựng sơ đồ kết nối và mô tả chi tiết các thành phần của hệ thống.
-•	Lập trình viên: [Tên thành viên] 
+•	Lập trình viên: [Nguyễn Ngọc Tùng] 
 o	Phát triển phần mềm điều khiển trung tâm và các ứng dụng di động.
 o	Tích hợp các thiết bị và dịch vụ vào hệ thống.
 o	Đảm bảo tính ổn định và bảo mật của hệ thống.
-•	Chuyên gia kiểm thử: [Tên thành viên] 
+•	Chuyên gia kiểm thử: [Nguyễn Trường Sơn] 
 o	Xây dựng các kịch bản kiểm thử để đảm bảo chất lượng của hệ thống.
 o	Thực hiện kiểm thử và báo cáo lỗi.
 o	Đề xuất các cải tiến để nâng cao chất lượng hệ thống.
